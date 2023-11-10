@@ -1,6 +1,7 @@
 ﻿#include <windows.h> // підключення бібліотеки з функціями API
 #include "resource.h"
 // Глобальні змінні:
+
 HINSTANCE hInst; 	//Дескриптор програми	
 LPCTSTR szWindowClass = "Kovalik";
 LPCTSTR szTitle = "Kovalik";
